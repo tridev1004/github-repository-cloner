@@ -93,4 +93,3 @@ Contributions are welcome! If you'd like to improve the script, feel free to sub
 
 ---
 
-This README provides all necessary instructions, from setup and configuration to usage and troubleshooting. Let me know if you need further modifications!
