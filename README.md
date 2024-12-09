@@ -1,7 +1,3 @@
-Certainly! Below is a more detailed and properly formatted README for your GitHub Repository Cloner script:
-
----
-
 # GitHub Repository Cloner
 
 This Node.js script allows you to fetch all repositories from a GitHub organization and clone them to your local machine. It checks if you have the necessary access rights to clone each repository, ensuring that you only attempt to clone repositories you have permission to access.
